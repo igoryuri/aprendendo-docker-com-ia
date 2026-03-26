@@ -63,4 +63,6 @@ O Docker é uma plataforma que empacota, entrega e roda aplicações (programas)
 
 ### ♻️ Prompts Reutilizáveis (Para Revisão Futura)
 Se eu precisar relembrar esse assunto daqui a alguns meses, posso jogar esses prompts na IA de novo:
-1. *"Resuma os comandos
+1. *"Resuma os comandos básicos do Docker para iniciar e parar um container em formato de tabela."*
+2. *"Me dê um exemplo prático de um arquivo Dockerfile simples para rodar um site estático e explique cada linha dele."*
+3. *"Quais são os erros mais comuns que iniciantes cometem ao tentar criar um container pela primeira vez e como evitá-los?"*
